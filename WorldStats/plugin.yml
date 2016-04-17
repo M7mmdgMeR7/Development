@@ -2,8 +2,8 @@ name: WorldStats
 description: WorldStats lets you view stats of worlds easily!
 author: Legoboy0215
 main: Legoboy\WorldStats\WorldStats
-version: 1.0.0
-api: [1.12.0]
+version: 1.3.2
+api: [0.13.1+]
 commands:
  ws:
   usage: "/ws <update/info>"

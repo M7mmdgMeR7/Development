@@ -1,6 +1,6 @@
 <?php
 
-namespace jojoe77777\modtools;
+namespace M7mmdgMeR7\modtools;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
